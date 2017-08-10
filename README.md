@@ -1,3 +1,2 @@
-# GeneratePress child theme for ellak.gr
-
-This theme is based on [GeneratePress](https://wordpress.org/themes/generatepress/) Wordpress theme.
+# gpchild-ellak-public-fiscal
+The GeneratePress child theme for public-fiscal.ellak.gr
